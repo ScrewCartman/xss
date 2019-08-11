@@ -1,6 +1,11 @@
 # xss sets
 [About Google](https://nosec.org/home/detail/2449.html)
 [Xss Sets](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)
+# blogs
+[BRUTE XSS](http://brutelogic.com.br/blog/)
+#articles
+[XSS attacks on Googlebot allow search index manipulation](https://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/)
+[]()
 ```JavaScript
 <script>alert(1)</script>
 "><script>alert(1)</script>
