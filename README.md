@@ -3,7 +3,7 @@
 [Xss Sets](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)
 # blogs
 [BRUTE XSS](http://brutelogic.com.br/blog/)
-#articles
+# articles
 [XSS attacks on Googlebot allow search index manipulation](https://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/)
 []()
 ```JavaScript
