@@ -1,11 +1,16 @@
 # xss sets
-[About Google](https://nosec.org/home/detail/2449.html)
-[Xss Sets](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)
+[Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss)
+
 # blogs
 [BRUTE XSS](http://brutelogic.com.br/blog/)
+
 # articles
 [XSS attacks on Googlebot allow search index manipulation](https://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/)
-[]()
+[Google搜索中的突变XSS](https://xz.aliyun.com/t/4865)
+[特斯拉上价值10000美元的XSS漏洞](https://nosec.org/home/detail/2781.html)
+
+[About Google](https://nosec.org/home/detail/2449.html)
+[Xss Sets](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)
 ```JavaScript
 <script>alert(1)</script>
 "><script>alert(1)</script>
