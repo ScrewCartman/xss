@@ -1,10 +1,13 @@
 # xss sets
-[Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss)  
+[Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss) 
+[XSS过滤绕过速查表](https://www.freebuf.com/articles/web/153055.html)  
 
-#Tools
+# Tools
 [Beef](https://github.com/beefproject/beef)  
-[XSStrike](https://github.com/s0md3v/XSStrike) 
+[XSStrike](https://github.com/s0md3v/XSStrike)  
 [xssor2](https://github.com/evilcos/xssor2)  
+[xssfork](https://github.com/bsmali4/xssfork)  
+[XSS-Filter-Evasion-Cheat-Sheet-CN](https://github.com/l3m0n/XSS-Filter-Evasion-Cheat-Sheet-CN)  
 
 # blogs
 [BRUTE XSS](http://brutelogic.com.br/blog/)  
