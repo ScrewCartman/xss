@@ -17,6 +17,9 @@
 [XSS attacks on Googlebot allow search index manipulation](https://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/)  
 [A WOrmable XSS on HackMD](https://blog.orange.tw/2019/03/a-wormable-xss-on-hackmd.html)  
 [Breaking XSS mitigations via Script Gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf)[pocs](https://github.com/google/security-research-pocs/tree/master/script-gadgets)  
+[Security Safe HTML](http://www.gwtproject.org/doc/latest/DevGuideSecuritySafeHtml.html)  
+[Reducing XSS by way of Automatic Context-Aware Escaping in Template Systems](https://security.googleblog.com/2009/03/reducing-xss-by-way-of-automatic.html)  
+[Fighting XSS with Isolated Scripts](https://sirdarkcat.blogspot.com/2017/01/fighting-xss-with-isolated-scripts.html)  
 [Google搜索中的突变XSS](https://xz.aliyun.com/t/4865)  
 [特斯拉上价值10000美元的XSS漏洞](https://nosec.org/home/detail/2781.html)  
 
