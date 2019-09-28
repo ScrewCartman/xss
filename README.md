@@ -15,6 +15,8 @@
 # articles
 [Bypass XSS Protection with xmp, noscript, noframes.. etc](https://www.hahwul.com/2019/04/bypass-xss-protection-with-xmp-noscript-etc....html)  
 [XSS attacks on Googlebot allow search index manipulation](https://www.tomanthony.co.uk/blog/xss-attacks-googlebot-index-manipulation/)  
+[A WOrmable XSS on HackMD](https://blog.orange.tw/2019/03/a-wormable-xss-on-hackmd.html)  
+[Breaking XSS mitigations via Script Gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf)[pocs](https://github.com/google/security-research-pocs/tree/master/script-gadgets)  
 [Google搜索中的突变XSS](https://xz.aliyun.com/t/4865)  
 [特斯拉上价值10000美元的XSS漏洞](https://nosec.org/home/detail/2781.html)  
 
