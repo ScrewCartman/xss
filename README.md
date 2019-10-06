@@ -1,6 +1,7 @@
 # xss sets
-[Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss) 
+[Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss)  
 [XSS过滤绕过速查表](https://www.freebuf.com/articles/web/153055.html)  
+[xssed](http://xssed.com)  
 
 # Tools
 [Beef](https://github.com/beefproject/beef)  
