@@ -1,4 +1,5 @@
 # xss sets
+[XSS_Filter_Evasion_Cheat_Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  
 [Sec-wiki XSS](https://www.sec-wiki.com/news/search?wd=xss)  
 [XSS过滤绕过速查表](https://www.freebuf.com/articles/web/153055.html)  
 [xssed](http://xssed.com)  
